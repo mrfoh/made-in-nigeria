@@ -32,6 +32,7 @@
 * [Composer-git-hook](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config **By [@BrainMaestro](https://twitter.com/BrainMaestro)**
 * [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps. **By [@kizitonwose](https://github.com/kizitonwose/CountryPickerView)**
 * [csv49](https://github.com/stigwue/csv49) - Comma Separated Values For Nigeria. **Maintained by [@stigwue](https://github.com/stigwue)**
+* [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) - 
 
 ## <a name="D"> </a>D
 
@@ -193,6 +194,7 @@
 * [TweetThreader](https://github.com/Udokah/tweet-threader) - A tool to create threads on Twitter  **By [@thisisudo](https://twitter.com/thisisudo)**
 * [TwittaSave](https://github.com/emmanuelkehinde/TwittaSave-Web) - Web, Android and Chrome Extension that enables you to download videos and gifs from tweets to your device easily; built using Twitter API.  **By [@emmakoko96](https://twitter.com/emmakoko96)**
 * [TigerJS JavaScript Library](https://github.com/solutionstack/tigerjs) - A general purpose javascript framework provideing numerous modules and abstractions including for XHR , DOM, Widgets, Date, String methods and much more to enhance Javascript application development   **By [@solutionstack](https://github.com/solutionstack)
+* [Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics. **By [@kizitonwose](https://github.com/kizitonwose)**
 
 ## <a name="U"> </a>U
 
